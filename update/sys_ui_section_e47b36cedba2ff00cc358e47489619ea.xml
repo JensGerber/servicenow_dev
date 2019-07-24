@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Test View" section_id="e47b36cedba2ff00cc358e47489619ea" sys_domain="global" table="sys_ui_form" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_user.company</element>
+            <position>0</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2019-07-11 16:12:41</sys_created_on>
+            <sys_id>80dbfecedba2ff00cc358e4748961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test View" display_value="Test View" name="sys_ui_form" sys_domain="global" view="Default view">e47b36cedba2ff00cc358e47489619ea</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2019-07-11 16:12:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_user.country</element>
+            <position>1</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2019-07-11 16:12:41</sys_created_on>
+            <sys_id>48dbfecedba2ff00cc358e4748961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test View" display_value="Test View" name="sys_ui_form" sys_domain="global" view="Default view">e47b36cedba2ff00cc358e47489619ea</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2019-07-11 16:12:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_user.city</element>
+            <position>2</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2019-07-11 16:12:41</sys_created_on>
+            <sys_id>ccdbfecedba2ff00cc358e4748961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test View" display_value="Test View" name="sys_ui_form" sys_domain="global" view="Default view">e47b36cedba2ff00cc358e47489619ea</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2019-07-11 16:12:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>3</position>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2019-07-11 16:12:41</sys_created_on>
+            <sys_id>44dbfecedba2ff00cc358e4748961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Test View" display_value="Test View" name="sys_ui_form" sys_domain="global" view="Default view">e47b36cedba2ff00cc358e47489619ea</sys_ui_section>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2019-07-11 16:12:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Test View</caption>
+            <header>false</header>
+            <name>sys_ui_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Jens.Gerber</sys_created_by>
+            <sys_created_on>2019-07-11 16:11:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e47b36cedba2ff00cc358e47489619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test View</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="K19 Scoped App" source="x_323585_k19_scope">aa029781dbae3f00cc358e4748961981</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="K19 Scoped App">aa029781dbae3f00cc358e4748961981</sys_scope>
+            <sys_update_name>sys_ui_section_e47b36cedba2ff00cc358e47489619ea</sys_update_name>
+            <sys_updated_by>Jens.Gerber</sys_updated_by>
+            <sys_updated_on>2019-07-11 16:11:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

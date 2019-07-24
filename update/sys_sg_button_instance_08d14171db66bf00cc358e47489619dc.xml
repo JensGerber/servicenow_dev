@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Revert Assigned Critical Tasks">8b310d31db66bf00cc358e4748961935</button>
+        <description/>
+        <field_name/>
+        <label>Revert</label>
+        <location>top</location>
+        <name>Revert</name>
+        <order>2</order>
+        <parent>7a7bbc3ddb26bf00cc358e4748961902</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-07-10 12:41:10</sys_created_on>
+        <sys_id>08d14171db66bf00cc358e47489619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Revert</sys_name>
+        <sys_package display_value="K19 Scoped App" source="x_323585_k19_scope">aa029781dbae3f00cc358e4748961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Scoped App">aa029781dbae3f00cc358e4748961981</sys_scope>
+        <sys_update_name>sys_sg_button_instance_08d14171db66bf00cc358e47489619dc</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-07-10 12:41:10</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=08d14171db66bf00cc358e47489619dc"/>
+</record_update>

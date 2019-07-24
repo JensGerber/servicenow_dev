@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>work_end</data_item_field_name>
+        <hidden>false</hidden>
+        <order>20</order>
+        <screen display_value="Details">7a7bbc3ddb26bf00cc358e4748961902</screen>
+        <screen_data_item_table>incident_task</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-07-10 12:13:31</sys_created_on>
+        <sys_id>fe7bb07ddb26bf00cc358e4748961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>work_end</sys_name>
+        <sys_package display_value="K19 Scoped App" source="x_323585_k19_scope">aa029781dbae3f00cc358e4748961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Scoped App">aa029781dbae3f00cc358e4748961981</sys_scope>
+        <sys_update_name>sys_sg_screen_field_fe7bb07ddb26bf00cc358e4748961965</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-07-10 12:13:31</sys_updated_on>
+        <type>auto</type>
+    </sys_sg_screen_field>
+</record_update>

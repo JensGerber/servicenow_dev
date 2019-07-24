@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Critical Map Tasks</name>
+        <query_condition table="incident">priorityIN1,2^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="priority" goto="false" newquery="false" operator="IN" or="false" value="1,2"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-07-08 16:08:57</sys_created_on>
+        <sys_id>5c3edfc9dbae3f00cc358e4748961973</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Critical Map Tasks</sys_name>
+        <sys_package display_value="K19 Scoped App" source="x_323585_k19_scope">aa029781dbae3f00cc358e4748961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Scoped App">aa029781dbae3f00cc358e4748961981</sys_scope>
+        <sys_update_name>sys_sg_data_item_5c3edfc9dbae3f00cc358e4748961973</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-07-11 10:09:14</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=5c3edfc9dbae3f00cc358e4748961973"/>
+</record_update>

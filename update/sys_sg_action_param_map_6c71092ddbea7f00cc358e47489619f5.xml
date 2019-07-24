@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Take Action on Asset">bfb44cd1db227f00cc358e474896191b</button>
+        <item_parameter display_value="State">a5bffb01db227f00cc358e4748961937</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-07-09 18:02:40</sys_created_on>
+        <sys_id>6c71092ddbea7f00cc358e47489619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a5bffb01db227f00cc358e4748961937</sys_name>
+        <sys_package display_value="K19 Scoped App" source="x_323585_k19_scope">aa029781dbae3f00cc358e4748961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Scoped App">aa029781dbae3f00cc358e4748961981</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_6c71092ddbea7f00cc358e47489619f5</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-07-09 18:02:40</sys_updated_on>
+        <ui_parameter display_value="State">a07e38a9dbea7f00cc358e47489619d0</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
